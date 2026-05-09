@@ -1,4 +1,4 @@
-# my first transformer!
+# shakespeare generator
 
 With Andrej Karpathy's dataset tiny shakespeare and a ~200,000 parameter transformer, this model was able to generate Shakespeare-esque text:
 
